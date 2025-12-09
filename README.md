@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou o [Seu Nome Completo]! 👋
 
-<!--
-**victortavares11/victortavares11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Sou estudante de ciências da computação na CESAR School.
+ Atualmente estou trabalhando no Projeto de Introdução à Computação. estou aprendendo HTML, CSS e JavaScript. Python e Arduino IDE e suas bibliotecas(C/C++)
+ 
+- 👯 Procuro colaborar em projetos de tecnologia e design.
+- ⚡ Curiosidade: [Uma curiosidade sobre você ou hobby].
 
-Here are some ideas to get you started:
+## Áreas de Interesse
+* Desenvolvimento Web
+* [Outra área de interesse]
+* [Outra área de interesse]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contato Profissional
+Sinta-se à vontade para entrar em contato!
+
+- 📧 **E-mail:** [seu.email@cesar.school]
+- 💼 **LinkedIn:** [Link para seu perfil do LinkedIn]
